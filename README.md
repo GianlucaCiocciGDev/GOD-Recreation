@@ -39,7 +39,7 @@ Axe Physics Return:
 
 
 <h2>GAME:</h2>
-Download the project, Open "Build" folder and run <b>ThirdPersonCombat.exe</b> to test it!
+Download the project, Open "Windows/Game" folder and run <b>ThirdPersonCombat.exe</b> to test it!
 
 <b>Commands: </b><br>
 
